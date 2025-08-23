@@ -1,3 +1,6 @@
 [submodule "Sepal-AI/private-data"]
 	path = Sepal-AI/private-data
 	url = https://github.com/sabahzero/Nanopore16S_Nature2025.git
+[submodule "Sepal-AI/project-1"]
+	path = Sepal-AI/project-1
+	url = https://github.com/sabahzero/Nanopore16S_Nature2025.git
