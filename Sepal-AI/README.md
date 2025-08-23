@@ -1,1 +1,1 @@
-# Placeholder
+Sepal AI: Bioinformatics-template https://github.com/sepal-ai/bioinformatics-template/tree/main
